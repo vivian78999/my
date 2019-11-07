@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace _1231
 {
     class Program
-    {
+    {    ABCD
         static void Main(string[] args)
         {
         }
